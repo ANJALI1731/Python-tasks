@@ -14,4 +14,7 @@ incorporate in the code to get informations. The maain goal of this task is to l
 
 OUTPUT
 
+<img width="941" height="401" alt="output" src="https://github.com/user-attachments/assets/9c9aa7c3-39d0-4bfd-9b91-71b9628f9b91" />
+
+<img width="1340" height="648" alt="visualization" src="https://github.com/user-attachments/assets/20d3d051-6fc9-4c87-a1a7-d7159018875b" />
 
